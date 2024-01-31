@@ -2,10 +2,11 @@
 
 ## Software Engineering in 2024
 
-In November 2023, Forbes published an article titled ["Prediction 2024: Software Development"](https://www.forbes.com/sites/forrester/2023/11/13/predictions-2024-software-development/?sh=15a7e6b263f1). 
+This article from Neurosys talks about ["new software development trends for 2024"](https://neurosys.com/blog/trends-in-software-development). 
 
-This article acts as an end of year summary for software development in 2023, and talks about the recent advancement in the field of Artificial Intellegence. For 2024, the article predicts a shift from open source to ajar source, and believes Backstage will become the predominant framework for self-service developer portals.
-
+Here are some points I find it interesting: 
+- AI and ML will become not only a trend but more of the fundamental tools for software developpment in 2024. AI-driven tools increased the capabilities of sofware development and enhance software user experiences. Artificial Intellegence is not here to substitute software engineers but rather assisting them to increase their potentials.
+- Other fields such as pharmaceutical industry uses the unique capabilities of quantum computing to simulate molecular interactions for a more efficient research and develop process. By simulating chemical structures in a quantum level, research team can have a more precise target for pharmaceutical compounds, which greatly speeds up the process. 
 
 ## Comments
 
