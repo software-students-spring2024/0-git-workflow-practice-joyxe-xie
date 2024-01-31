@@ -11,3 +11,6 @@ Here are some points I find it interesting:
 ## Comments
 
 Feel free to leave your comments below!
+
+### fctico:
+ It's nice to see the narrative shifting from AI as a potential replacement for human jobs to a powerful tool that improves the capabilities of software engineers!
